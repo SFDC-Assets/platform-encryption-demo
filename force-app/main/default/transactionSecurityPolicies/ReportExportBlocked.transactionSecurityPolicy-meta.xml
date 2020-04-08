@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TransactionSecurityPolicy xmlns="http://soap.sforce.com/2006/04/metadata">
+    <action>
+        <block>true</block>
+        <endSession>false</endSession>
+        <freezeUser>false</freezeUser>
+        <notifications>
+            <inApp>false</inApp>
+            <sendEmail>false</sendEmail>
+            <user>test-095evwczun72@example.com</user>
+        </notifications>
+        <twoFactorAuthentication>false</twoFactorAuthentication>
+    </action>
+    <active>true</active>
+    <description>A mass export action was blocked.</description>
+    <developerName>ReportExportBlocked</developerName>
+    <eventName>ReportEvent</eventName>
+    <flow>PolicyCondition_jkiPfnEnBSKKNXRPSOjs</flow>
+    <masterLabel>Report Export Blocked</masterLabel>
+    <type>CustomConditionBuilderPolicy</type>
+    <executionUser>test-095evwczun72@example.com</executionUser>
+</TransactionSecurityPolicy>

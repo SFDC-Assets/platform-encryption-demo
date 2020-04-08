@@ -1,0 +1,11 @@
+{
+  "orgName": "Event Monitoring Demo",
+  "edition": "Developer",
+  "hasSampleData": true,
+  "features": ["SecurityEventEnabled"],
+  "settings": {
+    "pathAssistantSettings": {
+      "pathAssistantEnabled": true
+    }    
+  } 
+}
