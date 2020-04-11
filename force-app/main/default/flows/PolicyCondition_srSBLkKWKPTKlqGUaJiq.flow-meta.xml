@@ -42,7 +42,7 @@
                 <leftValueReference>myVariable_myEvent.RowsProcessed</leftValueReference>
                 <operator>GreaterThan</operator>
                 <rightValue>
-                    <numberValue>100.0</numberValue>
+                    <numberValue>5.0</numberValue>
                 </rightValue>
             </conditions>
             <conditions>
@@ -58,8 +58,8 @@
             <label xsi:nil="true"/>
         </rules>
     </decisions>
-    <interviewLabel>PolicyCondition_jkiPfnEnBSKKNXRPSOjs</interviewLabel>
-    <label>PolicyCondition_jkiPfnEnBSKKNXRPSOjs</label>
+    <interviewLabel>PolicyCondition_srSBLkKWKPTKlqGUaJiq</interviewLabel>
+    <label>PolicyCondition_srSBLkKWKPTKlqGUaJiq</label>
     <processType>TransactionSecurityFlow</processType>
     <startElementReference>myDecision</startElementReference>
     <status>Draft</status>

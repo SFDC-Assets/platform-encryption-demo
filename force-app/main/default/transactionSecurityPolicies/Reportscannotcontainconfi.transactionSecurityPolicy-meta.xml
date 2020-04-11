@@ -12,11 +12,11 @@
         <twoFactorAuthentication>false</twoFactorAuthentication>
     </action>
     <active>true</active>
-    <description>A mass export action was blocked.</description>
-    <developerName>ReportExportBlocked</developerName>
+    <apexClass>DataClassification</apexClass>
+    <description>Please remove confidential fields from your report.</description>
+    <developerName>Reportscannotcontainconfi</developerName>
     <eventName>ReportEvent</eventName>
     <executionUser>test-zblfap4r0jre@example.com</executionUser>
-    <flow>PolicyCondition_srSBLkKWKPTKlqGUaJiq</flow>
-    <masterLabel>Report Export Blocked</masterLabel>
-    <type>CustomConditionBuilderPolicy</type>
+    <masterLabel>Reports cannot contain confidential fields</masterLabel>
+    <type>CustomApexPolicy</type>
 </TransactionSecurityPolicy>

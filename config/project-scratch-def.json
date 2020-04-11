@@ -1,7 +1,6 @@
 {
   "orgName": "Transaction Security Demo",
   "edition": "Developer",
-  "hasSampleData": true,
   "features": ["SecurityEventEnabled"],
   "settings": {
     "pathAssistantSettings": {
