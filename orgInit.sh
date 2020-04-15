@@ -1,5 +1,6 @@
-#sfdx shane:org:create -f config/project-scratch-def.json -d 30 -s --wait 60 --userprefix admin -o monitoring.demo
-sfdx force:org:create -f config/project-scratch-def.json -a transaction-security-demo
+# Create the demo org
+sfdx shane:org:create -f config/project-scratch-def.json -d 30 -s --wait 60 --userprefix admin -o transaction.demo
+#sfdx force:org:create -f config/project-scratch-def.json -a transaction-security-demo
 
 # Updates the Transaction Security Policies to contain this scratch orgs username
 sfdx shane:tsp:username:update
