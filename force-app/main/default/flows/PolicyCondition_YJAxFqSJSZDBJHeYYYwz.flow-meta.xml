@@ -39,17 +39,17 @@
             <name>myRule</name>
             <conditionLogic>and</conditionLogic>
             <conditions>
-                <leftValueReference>myVariable_myEvent.RowsProcessed</leftValueReference>
-                <operator>GreaterThan</operator>
-                <rightValue>
-                    <numberValue>5.0</numberValue>
-                </rightValue>
-            </conditions>
-            <conditions>
                 <leftValueReference>myVariable_myEvent.Operation</leftValueReference>
                 <operator>EqualTo</operator>
                 <rightValue>
                     <stringValue>ReportExported</stringValue>
+                </rightValue>
+            </conditions>
+            <conditions>
+                <leftValueReference>myVariable_myEvent.RowsProcessed</leftValueReference>
+                <operator>GreaterThan</operator>
+                <rightValue>
+                    <numberValue>100.0</numberValue>
                 </rightValue>
             </conditions>
             <connector>
@@ -58,8 +58,8 @@
             <label xsi:nil="true"/>
         </rules>
     </decisions>
-    <interviewLabel>PolicyCondition_srSBLkKWKPTKlqGUaJiq</interviewLabel>
-    <label>PolicyCondition_srSBLkKWKPTKlqGUaJiq</label>
+    <interviewLabel>PolicyCondition_YJAxFqSJSZDBJHeYYYwz</interviewLabel>
+    <label>PolicyCondition_YJAxFqSJSZDBJHeYYYwz</label>
     <processType>TransactionSecurityFlow</processType>
     <startElementReference>myDecision</startElementReference>
     <status>Draft</status>
