@@ -42,4 +42,12 @@
     </fieldPermissions>
     <hasActivationRequired>false</hasActivationRequired>
     <label>TransactionSecurity</label>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>ViewDataLeakageEvents</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>ViewEventLogFiles</name>
+    </userPermissions>
 </PermissionSet>
