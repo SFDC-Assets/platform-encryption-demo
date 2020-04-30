@@ -1,8 +1,8 @@
-# Transaction Security
+# Transaction Security Demo
 
 This project is part of a series of one-feature Salesforce Platform demos.
 
-From <https://www.platformdemos.com> you can
+From <https://www.platformdemos.com> you can:
 
 - Watch a video of this demo (3 minutes or less).
 - Spin up your own instance of the demo in a free scratch org.
