@@ -9,7 +9,7 @@ From <https://www.platformdemos.com> you can:
 - Find related Trailhead content.
 - Get high-resolution screenshots.
 
---
+___
 
 ## Installation Instructions
 
