@@ -23,16 +23,16 @@ git clone https://github.com/gabesumner/transaction-security
 cd transaction-security
 ```
 
-2. Install **shane-sfdx-plugins** (if you don't already have it)
+1. Install **shane-sfdx-plugins** (if you don't already have it)
 
   ```
   sfdx plugins:install shane-sfdx-plugins
   ```
 
-3. Run the startup script
+1. Run the startup script
 
   ```
   sh orgInit.sh
   ```
 
-4. Check out the demo guide on [PlatformDemos.com](https://www.platformdemos.com) for the Transaction Security demo.
+1. Check out the demo guide on [PlatformDemos.com](https://www.platformdemos.com) for the Transaction Security demo.
