@@ -1,7 +1,8 @@
 {
-  "orgName": "Transaction Security Demo",
+  "orgName": "Platform Encryption Demo",
   "edition": "Developer",
-  "features": ["SecurityEventEnabled"],
+  "hasSampleData": "true",
+  "features": ["PlatformEncryption", "CacheOnlyKeys", "EncryptionStatisticsInterval:86400", "EncryptionSyncInterval:604800"],
   "settings": {
     "pathAssistantSettings": {
       "pathAssistantEnabled": true
