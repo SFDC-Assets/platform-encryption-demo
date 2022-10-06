@@ -20,5 +20,8 @@ sfdx force:mdapi:deploy -d ./src -w 5
 
 sfdx force:data:record:create -s TenantSecret -v "Description=DeterministicKey Type=DeterministicData"
 
+# Push sample data for demo
+sfdx automig:load -d data
+
 # Open the org.
 sfdx force:org:open
