@@ -1,4 +1,4 @@
-# Transaction Security Demo
+# Platform Encryption Demo
 
 This project is part of a series of one-feature Salesforce Platform demos.
 
@@ -42,4 +42,4 @@ cd transaction-security
   sh orgInit.sh
   ```
 
-6. Check out the demo guide on [PlatformDemos.com](https://www.platformdemos.com) for the Transaction Security demo.
+6. Check out the demo guide on [PlatformDemos.com](https://www.platformdemos.com) for the Platform Encryption demo.
