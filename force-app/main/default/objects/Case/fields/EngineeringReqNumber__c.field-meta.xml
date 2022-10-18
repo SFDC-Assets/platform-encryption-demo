@@ -3,7 +3,7 @@
     <fullName>EngineeringReqNumber__c</fullName>
     <businessStatus>Active</businessStatus>
     <complianceGroup>PII</complianceGroup>
-    <encryptionScheme>ProbabilisticEncryption</encryptionScheme>
+    <encryptionScheme>CaseSensitiveDeterministicEncryption</encryptionScheme>
     <externalId>false</externalId>
     <label>Engineering Req Number</label>
     <length>12</length>
