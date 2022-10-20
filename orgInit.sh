@@ -23,5 +23,7 @@ sfdx force:data:record:create -s TenantSecret -v "Description=DeterministicKey T
 # Push sample data for demo
 sfdx automig:load -d data
 
+sfdx shane:data:file:upload  -f ./attachment/wp-platform-encryption-architecture.pdf -p `sfdx shane:data:id:query -o Case -w "Type='Electrical'"`
+
 # Open the org.
 sfdx force:org:open
