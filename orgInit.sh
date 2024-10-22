@@ -5,7 +5,7 @@ sf demoutil org create scratch -f config/project-scratch-def.json -d 1 -s --wait
 sf project deploy start
 
 # Assign permission set
-sf org assign permset -n PlatformEncryption -b integ
+sf org assign permset -n PlatformEncryption
 
 # Set the default password.
 sf demoutil user password set -p salesforce1 -g User -l User
