@@ -24,7 +24,8 @@ sf data record create -s TenantSecret -v "Description=DeterministicKey Type=Dete
 # Push sample data for demo
 sf automig load --inputdir ./data --deletebeforeload
 
-sf data create file --file ./attachment/wp-platform-encryption-architecture.pdf --parent-id `sfdx shane:data:id:query -o Case -w "Type='Electrical'"`
+# Temporarily disabled
+# sf data create file --file ./attachment/wp-platform-encryption-architecture.pdf --parent-id `sfdx shane:data:id:query -o Case -w "Type='Electrical'"`
 
 
 # Open the org.
