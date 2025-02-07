@@ -3,7 +3,7 @@
     <fullName>Employee_ID__c</fullName>
     <businessStatus>Active</businessStatus>
     <complianceGroup>PII</complianceGroup>
-    <encryptionScheme>None</encryptionScheme>
+    <encryptionScheme>ProbabilisticEncryption</encryptionScheme>
     <externalId>false</externalId>
     <label>Employee ID</label>
     <length>20</length>
