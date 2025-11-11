@@ -1,0 +1,162 @@
+{
+    "fileVersion": 0,
+    "serverMaxRevisionCounter": 26,
+    "sourceMembers": {
+        "CustomField__Case.Credit_Card_Number__c": {
+            "memberType": "CustomField",
+            "serverRevisionCounter": 1,
+            "lastRetrievedFromServer": 1,
+            "isNameObsolete": false
+        },
+        "CustomField__Case.Driver_s_License_Number__c": {
+            "memberType": "CustomField",
+            "serverRevisionCounter": 2,
+            "lastRetrievedFromServer": 2,
+            "isNameObsolete": false
+        },
+        "CustomField__Case.Employee_ID__c": {
+            "memberType": "CustomField",
+            "serverRevisionCounter": 3,
+            "lastRetrievedFromServer": 3,
+            "isNameObsolete": false
+        },
+        "CustomField__Case.EngineeringReqNumber__c": {
+            "memberType": "CustomField",
+            "serverRevisionCounter": 4,
+            "lastRetrievedFromServer": 4,
+            "isNameObsolete": false
+        },
+        "CustomField__Case.Member_ID__c": {
+            "memberType": "CustomField",
+            "serverRevisionCounter": 5,
+            "lastRetrievedFromServer": 5,
+            "isNameObsolete": false
+        },
+        "CustomField__Case.Passport_ID__c": {
+            "memberType": "CustomField",
+            "serverRevisionCounter": 6,
+            "lastRetrievedFromServer": 6,
+            "isNameObsolete": false
+        },
+        "CustomField__Case.PotentialLiability__c": {
+            "memberType": "CustomField",
+            "serverRevisionCounter": 7,
+            "lastRetrievedFromServer": 7,
+            "isNameObsolete": false
+        },
+        "CustomField__Case.Product__c": {
+            "memberType": "CustomField",
+            "serverRevisionCounter": 8,
+            "lastRetrievedFromServer": 8,
+            "isNameObsolete": false
+        },
+        "CustomField__Case.SLAViolation__c": {
+            "memberType": "CustomField",
+            "serverRevisionCounter": 9,
+            "lastRetrievedFromServer": 9,
+            "isNameObsolete": false
+        },
+        "CustomField__Case.SSN__c": {
+            "memberType": "CustomField",
+            "serverRevisionCounter": 10,
+            "lastRetrievedFromServer": 10,
+            "isNameObsolete": false
+        },
+        "CustomField__Contact.Employee_ID__c": {
+            "memberType": "CustomField",
+            "serverRevisionCounter": 11,
+            "lastRetrievedFromServer": 11,
+            "isNameObsolete": false
+        },
+        "CustomField__Contact.Member_ID__c": {
+            "memberType": "CustomField",
+            "serverRevisionCounter": 12,
+            "lastRetrievedFromServer": 12,
+            "isNameObsolete": false
+        },
+        "CustomField__Contact.Passport_ID__c": {
+            "memberType": "CustomField",
+            "serverRevisionCounter": 13,
+            "lastRetrievedFromServer": 13,
+            "isNameObsolete": false
+        },
+        "CustomField__Contact.SSN__c": {
+            "memberType": "CustomField",
+            "serverRevisionCounter": 14,
+            "lastRetrievedFromServer": 14,
+            "isNameObsolete": false
+        },
+        "CompactLayout__Contact.Contact_Compact_Layout": {
+            "memberType": "CompactLayout",
+            "serverRevisionCounter": 15,
+            "lastRetrievedFromServer": 15,
+            "isNameObsolete": false
+        },
+        "WebLink__Case.UpsellCrosssellOpportunity": {
+            "memberType": "WebLink",
+            "serverRevisionCounter": 16,
+            "lastRetrievedFromServer": 16,
+            "isNameObsolete": false
+        },
+        "ListView__Case.AllClosedCases": {
+            "memberType": "ListView",
+            "serverRevisionCounter": 17,
+            "lastRetrievedFromServer": 17,
+            "isNameObsolete": false
+        },
+        "ListView__Case.AllOpenCases": {
+            "memberType": "ListView",
+            "serverRevisionCounter": 18,
+            "lastRetrievedFromServer": 18,
+            "isNameObsolete": false
+        },
+        "ListView__Case.MyCases": {
+            "memberType": "ListView",
+            "serverRevisionCounter": 19,
+            "lastRetrievedFromServer": 19,
+            "isNameObsolete": false
+        },
+        "ListView__Case.MyOpenCases": {
+            "memberType": "ListView",
+            "serverRevisionCounter": 20,
+            "lastRetrievedFromServer": 20,
+            "isNameObsolete": false
+        },
+        "Layout__Case-Case Layout": {
+            "memberType": "Layout",
+            "serverRevisionCounter": 21,
+            "lastRetrievedFromServer": 21,
+            "isNameObsolete": false
+        },
+        "Layout__CaseClose-Close Case Layout": {
+            "memberType": "Layout",
+            "serverRevisionCounter": 22,
+            "lastRetrievedFromServer": 22,
+            "isNameObsolete": false
+        },
+        "Layout__Contact-Contact Layout": {
+            "memberType": "Layout",
+            "serverRevisionCounter": 23,
+            "lastRetrievedFromServer": 23,
+            "isNameObsolete": false
+        },
+        "FlexiPage__Case_Record_Page": {
+            "memberType": "FlexiPage",
+            "serverRevisionCounter": 24,
+            "lastRetrievedFromServer": 24,
+            "isNameObsolete": false
+        },
+        "Profile__Admin": {
+            "memberType": "Profile",
+            "serverRevisionCounter": 25,
+            "lastRetrievedFromServer": 25,
+            "isNameObsolete": false
+        },
+        "PermissionSet__PlatformEncryption": {
+            "memberType": "PermissionSet",
+            "serverRevisionCounter": 26,
+            "lastRetrievedFromServer": 26,
+            "isNameObsolete": false
+        }
+    }
+}
